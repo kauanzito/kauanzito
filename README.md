@@ -4,8 +4,3 @@
 <a href="https://wa.me/557488535088" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-R17535?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="mailto:kauanzitoofc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanzito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzito&layout=compact&langs_count=7&theme=dracula"/>
-</div>
